@@ -1,0 +1,9 @@
+{
+  "name": "quantum-algorithms",
+  "private": true,
+  "type": "module",
+  "description": "Deutsch–Jozsa, Bernstein–Vazirani, and Grover on a small state-vector simulator.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
