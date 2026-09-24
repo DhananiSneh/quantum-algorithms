@@ -1,5 +1,7 @@
 # Quantum algorithms
 
+[![test](https://github.com/DhananiSneh/quantum-algorithms/actions/workflows/test.yml/badge.svg)](https://github.com/DhananiSneh/quantum-algorithms/actions/workflows/test.yml)
+
 Three quantum algorithms on a small state-vector simulator. No quantum computer, and no extra packages.
 
 | Algorithm | What one run decides |
