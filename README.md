@@ -18,7 +18,7 @@ The simulator uses real amplitudes. These circuits only need the Hadamard gate, 
 npm test
 ```
 
-Node.js 20 or newer.
+Node.js 20 or newer. GitHub runs the same tests on every push.
 
 ## How each one is wired
 
